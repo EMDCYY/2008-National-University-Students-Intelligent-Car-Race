@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=MOTOR_CTL Pin=Rb17-2
+Removed Pin From Net: NetName=STEER_CTL Pin=Rb18-2
+Removed Member From Class: ClassName=12ziban Member=Rb17
+Removed Member From Class: ClassName=12ziban Member=Rb17
+Removed Member From Class: ClassName=12ziban Member=Rb18
+Removed Member From Class: ClassName=12ziban Member=Rb18
+Removed Member From Class: ClassName=12ziban Member=Rb20
+Removed Member From Class: ClassName=12ziban Member=Rb20
+Change Component Designator: OldDesignator=R NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Added Component: Designator=C26(0805)
+Added Component: Designator=JP2(HDR1X2)
+Added Component: Designator=JP3(HDR1X2)
+Added Component: Designator=JP4(HDR1X2)
+Added Component: Designator=JP5(HDR1X2)
+Added Component: Designator=JPa2(HDR1X3)
+Added Component: Designator=R35(0805)
+Added Component: Designator=RPb2(RP4_YX1)
+Added Pin To Net: NetName=V+5D Pin=C26-1
+Added Pin To Net: NetName=DGND Pin=C26-2
+Added Pin To Net: NetName=AGND Pin=JP2-1
+Added Pin To Net: NetName=VIDEO_IN1 Pin=JP2-2
+Added Pin To Net: NetName=AGND Pin=JP3-1
+Added Pin To Net: NetName=VIDEO_IN2 Pin=JP3-2
+Added Pin To Net: NetName=AGND Pin=JP4-1
+Added Pin To Net: NetName=MOTOR_CTL Pin=JP4-2
+Added Pin To Net: NetName=AGND Pin=JP5-1
+Added Pin To Net: NetName=STEER_CTL Pin=JP5-2
+Added Pin To Net: NetName=DGND Pin=JPa2-1
+Added Pin To Net: NetName=V+5D Pin=JPa2-3
+Added Pin To Net: NetName=V+5D Pin=R35-2
+Added Pin To Net: NetName=VS_SIG1 Pin=RPb2-1
+Added Pin To Net: NetName=VS_SIG2 Pin=RPb2-3
+Added Pin To Net: NetName=V+5D Pin=RPb2-5
+Added Pin To Net: NetName=V+5D Pin=RPb2-6
+Added Pin To Net: NetName=V+5D Pin=RPb2-7
+Added Pin To Net: NetName=V+5D Pin=RPb2-8
+Added Pin To Net: NetName=STEER_CTL Pin=Ub1-2
+Added Pin To Net: NetName=MOTOR_CTL Pin=Ub1-4
+Added Pin To Net: NetName=VS_SIG1 Pin=Ub1-9
+Added Pin To Net: NetName=VS_SIG2 Pin=Ub1-12
+Added Pin To Net: NetName=COM_SIG1 Pin=RPb2-2
+Added Pin To Net: NetName=COM_SIG1 Pin=U2-1
+Added Pin To Net: NetName=COM_SIG1 Pin=Ub1-10
+Added Net: Name=COM_SIG1
+Added Pin To Net: NetName=COM_SIG2 Pin=RPb2-4
+Added Pin To Net: NetName=COM_SIG2 Pin=U3-1
+Added Pin To Net: NetName=COM_SIG2 Pin=Ub1-15
+Added Net: Name=COM_SIG2
+Added Pin To Net: NetName=V_SIG Pin=JPa2-2
+Added Pin To Net: NetName=V_SIG Pin=R35-1
+Added Pin To Net: NetName=V_SIG Pin=Ub1-18
+Added Net: Name=V_SIG
+Added Member To Class: ClassName=12ziban Member=Component C26 Cap
+Added Member To Class: ClassName=12ziban Member=Component JP2 Header 2
+Added Member To Class: ClassName=12ziban Member=Component JP3 Header 2
+Added Member To Class: ClassName=12ziban Member=Component JP4 Header 2
+Added Member To Class: ClassName=12ziban Member=Component JP5 Header 2
+Added Member To Class: ClassName=12ziban Member=Component JPa2 Header 3
+Added Member To Class: ClassName=12ziban Member=Component R35 Res2
+Added Member To Class: ClassName=12ziban Member=Component RPb2 RESP4_YX1

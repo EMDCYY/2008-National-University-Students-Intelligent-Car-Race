@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=DGND Pin=Designator13-1
+Removed Pin From Net: NetName=AGND Pin=Designator13-2
+Removed Pin From Net: NetName=V+5D Pin=Designator14-1
+Removed Pin From Net: NetName=V+5A Pin=Designator14-2
+Added Component: Designator=Cb6(CR2012-0805)
+Added Component: Designator=PAD5(PAD-TEST-YX1)
+Added Component: Designator=PAD6(PAD-TEST-YX1)
+Added Component: Designator=PAD7(PAD-TEST-YX1)
+Added Component: Designator=PAD8(PAD-TEST-YX1)
+Added Pin To Net: NetName=V+5D Pin=Cb6-1
+Added Pin To Net: NetName=DGND Pin=Cb6-2
+Added Pin To Net: NetName=PK0 Pin=PAD5-1
+Added Pin To Net: NetName=PK0 Pin=Ub1-8
+Added Net: Name=PK0
+Added Pin To Net: NetName=PK1 Pin=PAD6-1
+Added Pin To Net: NetName=PK1 Pin=Ub1-7
+Added Net: Name=PK1
+Added Pin To Net: NetName=PK2 Pin=PAD7-1
+Added Pin To Net: NetName=PK2 Pin=Ub1-6
+Added Net: Name=PK2
+Added Pin To Net: NetName=PK3 Pin=PAD8-1
+Added Pin To Net: NetName=PK3 Pin=Ub1-5
+Added Net: Name=PK3
+Added Member To Class: ClassName=12ziban Member=Component Cb6 Cap
+Added Member To Class: ClassName=12ziban Member=Component PAD5 PAD-YX1
+Added Member To Class: ClassName=12ziban Member=Component PAD6 PAD-YX1
+Added Member To Class: ClassName=12ziban Member=Component PAD7 PAD-YX1
+Added Member To Class: ClassName=12ziban Member=Component PAD8 PAD-YX1

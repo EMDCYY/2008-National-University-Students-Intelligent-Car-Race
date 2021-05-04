@@ -1,0 +1,139 @@
+Removed Pin From Net: NetName=V+5D Pin=R?-2
+Change Component Designator: OldDesignator=R? NewDesignator=R
+Added Component: Designator=C1(CR2012-0805)
+Added Component: Designator=C2(CR2012-0805)
+Added Component: Designator=C3(CR2012-0805)
+Added Component: Designator=C4(CR2012-0805)
+Added Component: Designator=C5(CR2012-0805)
+Added Component: Designator=C6(CR2012-0805)
+Added Component: Designator=C7(CR2012-0805)
+Added Component: Designator=C8(CR2012-0805)
+Added Component: Designator=C9(CR2012-0805)
+Added Component: Designator=C10(CR2012-0805)
+Added Component: Designator=R1(CR2012-0805)
+Added Component: Designator=R2(CR2012-0805)
+Added Component: Designator=R3(CR2012-0805)
+Added Component: Designator=R4(CR2012-0805)
+Added Component: Designator=R5(CR2012-0805)
+Added Component: Designator=R6(CR2012-0805)
+Added Component: Designator=R7(CR2012-0805)
+Added Component: Designator=R8(CR2012-0805)
+Added Component: Designator=R9(CR2012-0805)
+Added Component: Designator=R10(CR2012-0805)
+Added Component: Designator=R11(CR2012-0805)
+Added Component: Designator=R12(CR2012-0805)
+Added Component: Designator=R13(CR2012-0805)
+Added Component: Designator=R14(CR2012-0805)
+Added Component: Designator=R15(CR2012-0805)
+Added Component: Designator=R16(CR2012-0805)
+Added Component: Designator=Uf5(SO-8)
+Added Pin To Net: NetName=V+5A Pin=C1-1
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=AGND Pin=C3-1
+Added Pin To Net: NetName=AGND Pin=C4-1
+Added Pin To Net: NetName=V+5A Pin=C5-1
+Added Pin To Net: NetName=AGND Pin=C5-2
+Added Pin To Net: NetName=AGND Pin=C7-1
+Added Pin To Net: NetName=AGND Pin=C8-1
+Added Pin To Net: NetName=AGND Pin=C9-2
+Added Pin To Net: NetName=AGND Pin=C10-2
+Added Pin To Net: NetName=V+5A Pin=R1-2
+Added Pin To Net: NetName=AGND Pin=R3-1
+Added Pin To Net: NetName=V+5A Pin=R4-2
+Added Pin To Net: NetName=AGND Pin=R6-1
+Added Pin To Net: NetName=AGND Pin=R8-1
+Added Pin To Net: NetName=AGND Pin=R9-2
+Added Pin To Net: NetName=AGND Pin=R13-1
+Added Pin To Net: NetName=AGND Pin=R14-2
+Added Pin To Net: NetName=PA7 Pin=R-1
+Added Pin To Net: NetName=V+5D Pin=R-2
+Added Pin To Net: NetName=DGND Pin=R?-2
+Added Pin To Net: NetName=AGND Pin=Uf5-4
+Added Pin To Net: NetName=V+5A Pin=Uf5-8
+Added Pin To Net: NetName=AV1 Pin=C9-1
+Added Pin To Net: NetName=AV1 Pin=R11-2
+Added Pin To Net: NetName=AV1 Pin=Ub1-67
+Added Net: Name=AV1
+Added Pin To Net: NetName=AV2 Pin=C10-1
+Added Pin To Net: NetName=AV2 Pin=R16-2
+Added Pin To Net: NetName=AV2 Pin=Ub1-68
+Added Net: Name=AV2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3-2
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R3-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C7-2
+Added Pin To Net: NetName=NetC6_1 Pin=R5-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R6-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R9-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R10-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R14-1
+Added Pin To Net: NetName=NetR12_2 Pin=Uf5-5
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=R15-2
+Added Pin To Net: NetName=NetR13_2 Pin=Uf5-6
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=R16-1
+Added Pin To Net: NetName=NetR15_1 Pin=Uf5-7
+Added Net: Name=NetR15_1
+Added Net: Name=O/E_SIG1
+Added Net: Name=O/E_SIG2
+Added Pin To Net: NetName=VIDEO_IN1 Pin=R1-1
+Added Pin To Net: NetName=VIDEO_IN1 Pin=R2-2
+Added Pin To Net: NetName=VIDEO_IN1 Pin=R7-1
+Added Net: Name=VIDEO_IN1
+Added Pin To Net: NetName=VIDEO_IN2 Pin=R4-1
+Added Pin To Net: NetName=VIDEO_IN2 Pin=R5-2
+Added Pin To Net: NetName=VIDEO_IN2 Pin=R12-1
+Added Net: Name=VIDEO_IN2
+Added Net: Name=VS_SIG1
+Added Net: Name=VS_SIG2
+Added Member To Class: ClassName=12ziban Member=Component C1 Cap
+Added Member To Class: ClassName=12ziban Member=Component C2 Cap
+Added Member To Class: ClassName=12ziban Member=Component C3 Cap
+Added Member To Class: ClassName=12ziban Member=Component C4 Cap
+Added Member To Class: ClassName=12ziban Member=Component C5 Cap
+Added Member To Class: ClassName=12ziban Member=Component C6 Cap
+Added Member To Class: ClassName=12ziban Member=Component C7 Cap
+Added Member To Class: ClassName=12ziban Member=Component C8 Cap
+Added Member To Class: ClassName=12ziban Member=Component C9 Cap
+Added Member To Class: ClassName=12ziban Member=Component C10 Cap
+Added Member To Class: ClassName=12ziban Member=Component R1 Res3
+Added Member To Class: ClassName=12ziban Member=Component R2 Res3
+Added Member To Class: ClassName=12ziban Member=Component R3 Res3
+Added Member To Class: ClassName=12ziban Member=Component R4 Res3
+Added Member To Class: ClassName=12ziban Member=Component R5 Res3
+Added Member To Class: ClassName=12ziban Member=Component R6 Res3
+Added Member To Class: ClassName=12ziban Member=Component R7 Res2
+Added Member To Class: ClassName=12ziban Member=Component R8 Res2
+Added Member To Class: ClassName=12ziban Member=Component R9 Res2
+Added Member To Class: ClassName=12ziban Member=Component R10 Res2
+Added Member To Class: ClassName=12ziban Member=Component R11 Res2
+Added Member To Class: ClassName=12ziban Member=Component R12 Res2
+Added Member To Class: ClassName=12ziban Member=Component R13 Res2
+Added Member To Class: ClassName=12ziban Member=Component R14 Res2
+Added Member To Class: ClassName=12ziban Member=Component R15 Res2
+Added Member To Class: ClassName=12ziban Member=Component R16 Res2
+Added Member To Class: ClassName=12ziban Member=Component R? Res3
+Added Member To Class: ClassName=12ziban Member=Component Uf5 LM358AM

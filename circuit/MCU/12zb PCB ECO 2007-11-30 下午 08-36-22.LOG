@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PK3 Pin=PAD8-1
+Removed Pin From Net: NetName=NetPAD11_1 Pin=PAD11-1
+Change Component Designator: OldDesignator=PAD11 NewDesignator=PAD8
+Added Component: Designator=PAD11(PAD-TEST-YX1)
+Added Component: Designator=R39(CR2012-0805)
+Added Component: Designator=R40(CR2012-0805)
+Added Pin To Net: NetName=PK3 Pin=PAD8-1
+Added Pin To Net: NetName=NetPAD11_1 Pin=PAD11-1
+Added Pin To Net: NetName=V+5A Pin=R39-1
+Added Pin To Net: NetName=V+5D Pin=R39-2
+Added Pin To Net: NetName=AGND Pin=R40-1
+Added Pin To Net: NetName=DGND Pin=R40-2
+Added Member To Class: ClassName=12ziban Member=Component PAD10 PAD-YX1
+Added Member To Class: ClassName=12ziban Member=Component R39 3.3k
+Added Member To Class: ClassName=12ziban Member=Component R40 3.3k

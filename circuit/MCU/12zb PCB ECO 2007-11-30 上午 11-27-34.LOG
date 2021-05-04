@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VS_SIG1 Pin=RPb2-1
+Removed Pin From Net: NetName=COM_SIG1 Pin=RPb2-2
+Removed Pin From Net: NetName=VS_SIG2 Pin=RPb2-3
+Removed Pin From Net: NetName=COM_SIG2 Pin=RPb2-4
+Added Pin To Net: NetName=COM_SIG2 Pin=RPb2-1
+Added Pin To Net: NetName=VS_SIG2 Pin=RPb2-2
+Added Pin To Net: NetName=COM_SIG1 Pin=RPb2-3
+Added Pin To Net: NetName=VS_SIG1 Pin=RPb2-4

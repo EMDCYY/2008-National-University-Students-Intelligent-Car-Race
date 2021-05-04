@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Uf5 NewDesignator=U4
+Added Pin To Net: NetName=NetR10_1 Pin=U4-1
+Added Pin To Net: NetName=NetR8_2 Pin=U4-2
+Added Pin To Net: NetName=NetR7_2 Pin=U4-3

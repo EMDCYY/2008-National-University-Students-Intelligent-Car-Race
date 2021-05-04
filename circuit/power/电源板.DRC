@@ -1,0 +1,29 @@
+Protel Design System Design Rule Check
+PCB File : \now\znc\电路设计\电源板\电源板.PcbDoc
+Date     : 2007-11-29
+Time     : 上午 11:03:57
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=80mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation         Pad Free-0(2000mil,185mil)  Multi-Layer  Actual Hole Size = 120mil
+   Violation         Pad Free-0(200mil,1415mil)  Multi-Layer  Actual Hole Size = 120mil
+   Violation         Pad Free-0(2000mil,1420mil)  Multi-Layer  Actual Hole Size = 120mil
+Rule Violations :3
+
+
+Violations Detected : 3
+Time Elapsed        : 00:00:01

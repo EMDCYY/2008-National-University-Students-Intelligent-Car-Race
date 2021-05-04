@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PK3 Pin=PAD8-1
+Change Component Designator: OldDesignator=PAD12 NewDesignator=PAD8
+Added Component: Designator=PAD12(PAD-TEST-YX1)
+Change Net Name : Old Net Name=PAD03 New Net Name=NetPAD9_1
+Change Net Name : Old Net Name=PAD04 New Net Name=NetPAD10_1
+Change Net Name : Old Net Name=PAD10 New Net Name=NetPAD11_1
+Added Pin To Net: NetName=NetPAD12_1 Pin=PAD12-1
+Added Pin To Net: NetName=NetPAD12_1 Pin=Ub1-74
+Added Net: Name=NetPAD12_1

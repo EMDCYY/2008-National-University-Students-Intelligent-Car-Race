@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=AGND Pin=JP4-1
+Removed Pin From Net: NetName=AGND Pin=JP5-1
+Added Component: Designator=J6(HDR1X2)
+Added Component: Designator=J7(HDR1X2)
+Added Component: Designator=PAD1(PAD-TEST-YX1)
+Added Component: Designator=PAD2(PAD-TEST-YX1)
+Added Component: Designator=PAD3(PAD-TEST-YX1)
+Added Component: Designator=PAD4(PAD-TEST-YX1)
+Added Pin To Net: NetName=DGND Pin=J6-1
+Added Pin To Net: NetName=PWM4 Pin=J6-2
+Added Pin To Net: NetName=DGND Pin=J7-1
+Added Pin To Net: NetName=PWM6 Pin=J7-2
+Added Pin To Net: NetName=DGND Pin=JP4-1
+Added Pin To Net: NetName=DGND Pin=JP5-1
+Added Pin To Net: NetName=NetPAD1_1 Pin=PAD1-1
+Added Pin To Net: NetName=NetPAD1_1 Pin=Ub1-109
+Added Net: Name=NetPAD1_1
+Added Pin To Net: NetName=NetPAD2_1 Pin=PAD2-1
+Added Pin To Net: NetName=NetPAD2_1 Pin=Ub1-111
+Added Net: Name=NetPAD2_1
+Added Pin To Net: NetName=NetPAD3_1 Pin=PAD3-1
+Added Pin To Net: NetName=NetPAD3_1 Pin=Ub1-1
+Added Net: Name=NetPAD3_1
+Added Pin To Net: NetName=NetPAD4_1 Pin=PAD4-1
+Added Pin To Net: NetName=NetPAD4_1 Pin=Ub1-3
+Added Net: Name=NetPAD4_1
+Added Member To Class: ClassName=12ziban Member=Component J6 Header 2
+Added Member To Class: ClassName=12ziban Member=Component J7 Header 2
+Added Member To Class: ClassName=12ziban Member=Component PAD1 PAD-YX1
+Added Member To Class: ClassName=12ziban Member=Component PAD2 PAD-YX1
+Added Member To Class: ClassName=12ziban Member=Component PAD3 PAD-YX1
+Added Member To Class: ClassName=12ziban Member=Component PAD4 PAD-YX1
+Added Member To Class: ClassName=12ziban Member=Component R38 3.3k

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=EXTAL Pin=C20-1
+Removed Pin From Net: NetName=DGND Pin=C20-2
+Removed Pin From Net: NetName=DGND Pin=C21-2
+Removed Pin From Net: NetName=EXTAL Pin=R27-2
+Removed Pin From Net: NetName=XTAL Pin=R28-2
+Removed Pin From Net: NetName=EXTAL Pin=Yb1-1
+Removed Member From Class: ClassName=12ziban Member=C20
+Removed Member From Class: ClassName=12ziban Member=C20
+Removed Member From Class: ClassName=12ziban Member=C21
+Removed Member From Class: ClassName=12ziban Member=C21
+Removed Member From Class: ClassName=12ziban Member=R27
+Removed Member From Class: ClassName=12ziban Member=R28
+Change Component Footprint: Designator=Yb1 Old Footprint=XT New Footprint=XYT
+Added Component: Designator=Cb6(CR2012-0805)
+Added Component: Designator=R33(CR2012-0805)
+Added Component: Designator=R34(CR2012-0805)
+Added Pin To Net: NetName=V+5D Pin=Cb6-1
+Added Pin To Net: NetName=DGND Pin=Cb6-2
+Added Pin To Net: NetName=EXTAL Pin=R33-2
+Added Pin To Net: NetName=EXTAL Pin=R34-1
+Added Pin To Net: NetName=DGND Pin=R34-2
+Added Pin To Net: NetName=DGND Pin=Yb1-2
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Net: Name=NetR33_1
+Added Member To Class: ClassName=12ziban Member=Component Cb6 Cap
+Added Member To Class: ClassName=12ziban Member=Component R33 470
+Added Member To Class: ClassName=12ziban Member=Component R34 470

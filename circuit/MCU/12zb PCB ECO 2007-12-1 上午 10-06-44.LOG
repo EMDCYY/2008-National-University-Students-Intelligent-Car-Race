@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VS_SIG2 Pin=Ub1-12
+Removed Pin From Net: NetName=COM_SIG2 Pin=Ub1-15
+Removed Pin From Net: NetName=V_SIG Pin=Ub1-18
+Added Pin To Net: NetName=PM0 Pin=PAD1-1
+Added Pin To Net: NetName=NetPAD8_1 Pin=PAD8-1
+Added Pin To Net: NetName=NetPAD9_1 Pin=PAD9-1
+Added Pin To Net: NetName=PM1 Pin=PAD13-1
+Added Pin To Net: NetName=VS_SIG2 Pin=Ub1-11
+Added Pin To Net: NetName=COM_SIG2 Pin=Ub1-12
+Added Pin To Net: NetName=V_SIG Pin=Ub1-15
+Added Pin To Net: NetName=PT5 Pin=Ub1-16
+Added Net: Name=PT5
+Added Pin To Net: NetName=PT6 Pin=Ub1-17
+Added Net: Name=PT6
+Added Pin To Net: NetName=PT7 Pin=Ub1-18
+Added Net: Name=PT7
+Added Member To Class: ClassName=12ziban Member=Component PAD13 PAD-YX1

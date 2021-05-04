@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=PA7 Pin=JP?-1
+Removed Pin From Net: NetName=PA6 Pin=JP?-2
+Removed Pin From Net: NetName=PA5 Pin=JP?-3
+Removed Pin From Net: NetName=PA4 Pin=JP?-4
+Removed Pin From Net: NetName=PA3 Pin=JP?-5
+Removed Pin From Net: NetName=PA2 Pin=JP?-6
+Removed Pin From Net: NetName=PA1 Pin=JP?-7
+Removed Pin From Net: NetName=PA0 Pin=JP?-8
+Removed Pin From Net: NetName=PB7 Pin=JP?-9
+Removed Pin From Net: NetName=PB6 Pin=JP?-10
+Removed Pin From Net: NetName=PB5 Pin=JP?-11
+Removed Pin From Net: NetName=PB4 Pin=JP?-12
+Removed Pin From Net: NetName=PB3 Pin=JP?-13
+Removed Pin From Net: NetName=PB2 Pin=JP?-14
+Removed Pin From Net: NetName=PB1 Pin=JP?-15
+Removed Pin From Net: NetName=PB0 Pin=JP?-16
+Removed Pin From Net: NetName=DGND Pin=JP?-17
+Removed Pin From Net: NetName=V+5D Pin=R?-2
+Removed Member From Class: ClassName=12ziban Member=JP?
+Added Component: Designator=JP1(Ts1x17)
+Added Pin To Net: NetName=PA7 Pin=JP1-1
+Added Pin To Net: NetName=PA6 Pin=JP1-2
+Added Pin To Net: NetName=PA5 Pin=JP1-3
+Added Pin To Net: NetName=PA4 Pin=JP1-4
+Added Pin To Net: NetName=PA3 Pin=JP1-5
+Added Pin To Net: NetName=PA2 Pin=JP1-6
+Added Pin To Net: NetName=PA1 Pin=JP1-7
+Added Pin To Net: NetName=PA0 Pin=JP1-8
+Added Pin To Net: NetName=PB7 Pin=JP1-9
+Added Pin To Net: NetName=PB6 Pin=JP1-10
+Added Pin To Net: NetName=PB5 Pin=JP1-11
+Added Pin To Net: NetName=PB4 Pin=JP1-12
+Added Pin To Net: NetName=PB3 Pin=JP1-13
+Added Pin To Net: NetName=PB2 Pin=JP1-14
+Added Pin To Net: NetName=PB1 Pin=JP1-15
+Added Pin To Net: NetName=PB0 Pin=JP1-16
+Added Pin To Net: NetName=DGND Pin=JP1-17
+Added Pin To Net: NetName=PA7 Pin=R?-1
+Added Pin To Net: NetName=DGND Pin=R?-2
+Added Pin To Net: NetName=V+5D Pin=R?-2
+Added Member To Class: ClassName=12ziban Member=Component JP1 Header 17
+Added Member To Class: ClassName=12ziban Member=Component R? Res3

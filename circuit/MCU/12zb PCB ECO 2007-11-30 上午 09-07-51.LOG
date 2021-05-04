@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=PT0 Pin=Rb12-1
+Removed Pin From Net: NetName=PT1 Pin=Rb13-1
+Removed Pin From Net: NetName=PT2 Pin=Rb14-1
+Removed Pin From Net: NetName=PT3 Pin=Rb15-1
+Removed Pin From Net: NetName=PAD00 Pin=Rb16-1
+Removed Pin From Net: NetName=PT4 Pin=Rb19-1
+Removed Member From Class: ClassName=12ziban Member=Rb12
+Removed Member From Class: ClassName=12ziban Member=Rb12
+Removed Member From Class: ClassName=12ziban Member=Rb13
+Removed Member From Class: ClassName=12ziban Member=Rb13
+Removed Member From Class: ClassName=12ziban Member=Rb14
+Removed Member From Class: ClassName=12ziban Member=Rb14
+Removed Member From Class: ClassName=12ziban Member=Rb15
+Removed Member From Class: ClassName=12ziban Member=Rb15
+Removed Member From Class: ClassName=12ziban Member=Rb16
+Removed Member From Class: ClassName=12ziban Member=Rb16
+Removed Member From Class: ClassName=12ziban Member=Rb19
+Removed Member From Class: ClassName=12ziban Member=Rb19
+Change Component Footprint: Designator=JP? Old Footprint=CON2X13M New Footprint=HDR1X17
+Change Component Comment : Designator=JP? Old Comment=Header 13X2 New Comment=Header 17
+Added Component: Designator=R?(CR2012-0805)
+Added Component: Designator=R?(CR2012-0805)
+Added Pin To Net: NetName=PA7 Pin=JP?-1
+Added Pin To Net: NetName=PA6 Pin=JP?-2
+Added Pin To Net: NetName=PA5 Pin=JP?-3
+Added Pin To Net: NetName=PA4 Pin=JP?-4
+Added Pin To Net: NetName=PA3 Pin=JP?-5
+Added Pin To Net: NetName=PA2 Pin=JP?-6
+Added Pin To Net: NetName=PA1 Pin=JP?-7
+Added Pin To Net: NetName=PA0 Pin=JP?-8
+Added Pin To Net: NetName=PB7 Pin=JP?-9
+Added Pin To Net: NetName=PB6 Pin=JP?-10
+Added Pin To Net: NetName=PB5 Pin=JP?-11
+Added Pin To Net: NetName=PB4 Pin=JP?-12
+Added Pin To Net: NetName=PB3 Pin=JP?-13
+Added Pin To Net: NetName=PB2 Pin=JP?-14
+Added Pin To Net: NetName=PB1 Pin=JP?-15
+Added Pin To Net: NetName=PB0 Pin=JP?-16
+Added Pin To Net: NetName=DGND Pin=JP?-17
+Added Pin To Net: NetName=PA7 Pin=R?-1
+Added Pin To Net: NetName=PA7 Pin=R?-1
+Added Pin To Net: NetName=DGND Pin=R?-2
+Added Pin To Net: NetName=V+5D Pin=R?-2
+Added Member To Class: ClassName=12ziban Member=Component R? Res3
+Added Member To Class: ClassName=12ziban Member=Component R? Res3

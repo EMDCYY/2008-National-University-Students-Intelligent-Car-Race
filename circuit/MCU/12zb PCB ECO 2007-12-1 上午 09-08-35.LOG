@@ -1,0 +1,21 @@
+Added Component: Designator=JP1(Ts1x17)
+Added Pin To Net: NetName=DGND Pin=JP1-1
+Added Pin To Net: NetName=PB0 Pin=JP1-2
+Added Pin To Net: NetName=PB1 Pin=JP1-3
+Added Pin To Net: NetName=PB2 Pin=JP1-4
+Added Pin To Net: NetName=PB3 Pin=JP1-5
+Added Pin To Net: NetName=PB4 Pin=JP1-6
+Added Pin To Net: NetName=PB5 Pin=JP1-7
+Added Pin To Net: NetName=PB6 Pin=JP1-8
+Added Pin To Net: NetName=PB7 Pin=JP1-9
+Added Pin To Net: NetName=PA0 Pin=JP1-10
+Added Pin To Net: NetName=PA1 Pin=JP1-11
+Added Pin To Net: NetName=PA2 Pin=JP1-12
+Added Pin To Net: NetName=PA3 Pin=JP1-13
+Added Pin To Net: NetName=PA4 Pin=JP1-14
+Added Pin To Net: NetName=PA5 Pin=JP1-15
+Added Pin To Net: NetName=PA6 Pin=JP1-16
+Added Pin To Net: NetName=PA7 Pin=JP1-17
+Added Pin To Net: NetName=NetPAD8_1 Pin=PAD8-1
+Added Pin To Net: NetName=NetPAD9_1 Pin=PAD9-1
+Added Member To Class: ClassName=12ziban Member=Component JP1 Header 17
